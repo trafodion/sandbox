@@ -3,4 +3,4 @@ Sand box 4
 
 Experiment submitting and replicating thru gerrit
 
-Cool new change.
+Need a name and insignia - per bug 1227256 
