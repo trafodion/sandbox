@@ -10,3 +10,5 @@ Reference existing bug # 1227256.
 New to Zuul!
 
 Need gerrit to stream an event.
+
+Testing out Jenkins need gerrit event .
