@@ -1,4 +1,4 @@
 [gerrit]
 host=sea-review.hpl.hp.com
 port=29418
-project=hptopl/sandbox4.git
+project=trafodion/sandbox.git
