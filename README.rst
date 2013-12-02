@@ -12,3 +12,5 @@ New to Zuul!
 Need gerrit to stream an event.
 
 Testing out Jenkins need gerrit event .
+
+Testing to see if puppet-lint will work with Rakefile present in project.
