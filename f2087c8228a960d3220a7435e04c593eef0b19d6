@@ -1,0 +1,9 @@
+Approved+1: Alice Chen <alice.chen@hp.com>
+Code-Review+2: Alice Chen <alice.chen@hp.com>
+Code-Review+1: Steve Varnau <steve.varnau@hp.com>
+Verified+2: Trafodion Jenkins
+Submitted-by: Trafodion Jenkins
+Submitted-at: Thu, 12 Jun 2014 18:28:00 +0000
+Reviewed-on: https://review.trafodion.org/3
+Project: trafodion/sandbox
+Branch: refs/heads/master
