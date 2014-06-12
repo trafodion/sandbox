@@ -16,3 +16,5 @@ Testing out Jenkins need gerrit event .
 Testing to see if puppet-lint will work with Rakefile present in project.
 
 Test from new repo
+
+Alrighty we need a new test for new repo to check out Zuul changes.
