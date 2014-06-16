@@ -4,3 +4,4 @@ And the sequence of stunningly useless changes continues unabated!
 This line isn't very useful either.
 One more time! This file probably has very low self-esteem given how its contents describe it as useless.
 A final line.
+Or not.
