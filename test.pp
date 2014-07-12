@@ -1,0 +1,2 @@
+
+Cause puppet syntax error
