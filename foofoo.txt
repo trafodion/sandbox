@@ -1,0 +1,10 @@
+Gerrit can compare at a maximum of 100 characters easily.  After 100 characters it will try 
+word wrapping which makes it difficult to read and compare code. It is recommended that 
+style checks look for lines more than 100 characters wide.
+
+We need some really really long text in here for some experiments.  Lorem ipsum dolor sit amet, cons
+ectetur adipiscing elit. Mauris feugiat convallis mi, sollicitudin ullamcorper augue volutpat at. 
+Quisque vel diam eu tortor convallis ultricies. Aenean id lectus ut risus condimentum commodo vitae 
+in mi. Phasellus bibendum rhoncus nisl, nec lacinia libero auctor quis. Fusce vel dignissim ante. 
+Nullam semper vel lectus et tempor. Proin purus ipsum, varius quis vulputate sed, ultricies non enim.
+Nulla sagittis vitae dolor nec condimentum.
