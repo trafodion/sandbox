@@ -12,3 +12,4 @@ Nulla sagittis vitae dolor nec condimentum.
 Testing Launchpad blueprint integration
 
 Testing Launchpad Welcome New User
+Testing Launchpad Welcome New User Again
