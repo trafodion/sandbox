@@ -10,3 +10,5 @@ Nullam semper vel lectus et tempor. Proin purus ipsum, varius quis vulputate sed
 Nulla sagittis vitae dolor nec condimentum.
 
 Testing Launchpad blueprint integration
+
+Testing Launchpad Welcome New User
